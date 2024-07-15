@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @Neet-hu
 
 ## 👀 Profile Views
-![Profile Views](https://shields.io/badge/dynamic/json?color=informational&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/Neet-hu/Neet-hu) 
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=Neet-hu.Neet-hu)  
 
 
 # About Me
