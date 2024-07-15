@@ -7,7 +7,8 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neet-hu&theme=radical)
 
 ## 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neet-hu&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neet-hu&layout=compact&theme=radical&langs_count=10)
+
 
 
 ## 🏆 GitHub Trophies
@@ -15,4 +16,4 @@
 
 
 ## 📈 GitHub Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Neet-hu&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Neet-hu&theme=radical)
