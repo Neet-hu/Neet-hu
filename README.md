@@ -1,7 +1,8 @@
 # 👋 Hi, I’m @Neet-hu
 
 # About Me
-![About Me](https://github.com/Neet-hu/Neet-hu/blob/main/Image.gif) 
+![About Me](https://github.com/Neet-hu/Neet-hu/blob/main/Image.gif)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Neet-hu.Neet-hu)
 - 👀  I'm deeply interested in exploring the fascinating world of data science and machine learning. I enjoy diving into complex datasets, uncovering hidden patterns, and turning data into actionable insights. I'm also passionate about natural language processing, AI-driven solutions, and cybersecurity. The ever-evolving landscape of cyber threats and defense mechanisms intrigues me, and I'm committed to learning more about protecting digital assets.
 
 - 🌱 Currently, I'm honing my skills in advanced machine learning techniques and exploring the latest advancements in AI. I'm delving into deep learning frameworks like PyTorch and TensorFlow, and expanding my knowledge in areas like computer vision and reinforcement learning. Additionally, I'm learning about cybersecurity principles, threat detection, and network security to enhance my understanding of digital safety.
