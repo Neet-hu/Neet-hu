@@ -5,6 +5,7 @@
 
 ![Neet-hu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Neet-hu)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neet-hu&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Neet-hu.Neet-hu)
 - 👀  I'm deeply interested in exploring the fascinating world of data science and machine learning. I enjoy diving into complex datasets, uncovering hidden patterns, and turning data into actionable insights. I'm also passionate about natural language processing, AI-driven solutions, and cybersecurity. The ever-evolving landscape of cyber threats and defense mechanisms intrigues me, and I'm committed to learning more about protecting digital assets.
@@ -16,7 +17,9 @@
 
 ![Neet-hu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neet-hu&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neet-hu&layout=compact&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neet-hu)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neet-hu&hide_progress=true)
 
 
 ## 🏆 GitHub Trophies
