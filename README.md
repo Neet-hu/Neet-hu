@@ -2,6 +2,8 @@
 
 # About Me
 ![About Me](https://github.com/Neet-hu/Neet-hu/blob/main/Image.gif)
+
+
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Neet-hu.Neet-hu)
 - 👀  I'm deeply interested in exploring the fascinating world of data science and machine learning. I enjoy diving into complex datasets, uncovering hidden patterns, and turning data into actionable insights. I'm also passionate about natural language processing, AI-driven solutions, and cybersecurity. The ever-evolving landscape of cyber threats and defense mechanisms intrigues me, and I'm committed to learning more about protecting digital assets.
 
