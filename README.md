@@ -3,6 +3,8 @@
 # About Me
 ![About Me](https://github.com/Neet-hu/Neet-hu/blob/main/Image.gif)
 
+![Neet-hu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Neet-hu)
+
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Neet-hu.Neet-hu)
 - 👀  I'm deeply interested in exploring the fascinating world of data science and machine learning. I enjoy diving into complex datasets, uncovering hidden patterns, and turning data into actionable insights. I'm also passionate about natural language processing, AI-driven solutions, and cybersecurity. The ever-evolving landscape of cyber threats and defense mechanisms intrigues me, and I'm committed to learning more about protecting digital assets.
@@ -12,11 +14,15 @@
 # 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neet-hu&theme=radical)
 
+![Neet-hu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neet-hu&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neet-hu&layout=compact&theme=radical)
 
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Neet-hu&theme=radical)
 
 
+
+[![Neet-hu's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Neet-hu&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
