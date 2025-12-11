@@ -12,7 +12,7 @@
 - 🚀I’m currently undergoing training in Angular, PHP, MySQL, and WordPress, building real-world applications and strengthening my full-stack development skills.
 
 - ⚛️ Alongside, I’m also learning React to enhance my front-end development expertise and explore modern UI/UX development workflows.
-- 
+  
 - 🌱 I’m also honing my skills in advanced machine learning techniques, exploring deep learning frameworks like PyTorch and TensorFlow, and expanding into computer vision and reinforcement learning.
 
 - 🔐 Additionally, I’m learning core cybersecurity principles, including threat detection and network security, to better understand and contribute to digital safety.
@@ -23,6 +23,15 @@
 
 ![Neet-hu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neet-hu&show_icons=true&theme=radical)
 
+### 🛠️ Tech Stack
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
 
